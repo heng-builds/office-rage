@@ -3,7 +3,7 @@
 像素風上班族閃避小遊戲。跳過老闆、甩鍋同事、改需求的客戶，
 用薪水買珍奶和鹹酥雞續命，怒氣滿 100 就憤怒離職。
 
-▶ 線上遊玩：https://你的帳號.github.io/office-rage/
+▶ 線上遊玩：https://heng-builds.github.io/office-rage/
 
 ## 操作
 - 空白鍵 / ↑ / 點擊畫面：跳躍
